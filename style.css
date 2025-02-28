@@ -141,7 +141,7 @@ body {
 }
 
 .card-front {
-    background-image: url(./bg2.jpg);
+    background-image: url(./bg5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -159,13 +159,13 @@ body {
 .front-title{
     font-family: Monomakh;
     font-size: 30px;
-    color:rgb(42, 92, 49);
+    color:rgb(37, 92, 44);
 }
 .front-subtitle{
     font-family: Pangolin;
     font-weight: 700;
     font-size: 20px;
-    color:rgb(72, 155, 72);
+    color:rgb(67, 163, 67);
 }
 
 .card-back {
