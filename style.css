@@ -49,7 +49,7 @@ body {
     margin-bottom: 20px;
     color: rgba(28, 78, 37, 0.829);
     text-align: center;
-    text-shadow: 1px 1px 6px rgba(0,0,0,0.76);
+    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.144);
 }
 
 .hero{
@@ -96,12 +96,12 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 45px;
 }
 
 .card {
-    width: 230px;
-    height: 300px;
+    width: 265px;
+    height: 375px;
     perspective: 1000px;
    
     /* Создаём эффект глубины */
